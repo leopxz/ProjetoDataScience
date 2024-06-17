@@ -1,4 +1,4 @@
-# ProjetoDataScience# Projeto Data Science
+# ProjetoDataScience
 ## Painel de Análise de Doenças Cardíacas
 
 Bem-vindo ao repositório do Painel de Análise de Doenças Cardíacas! Este painel é construído usando as bibliotecas Dash e Plotly em Python, com o objetivo de explorar e visualizar conjuntos de dados relacionados à análise de doenças cardíacas.
